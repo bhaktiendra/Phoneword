@@ -1,0 +1,28 @@
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.dll
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.pdb
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.DatabaseOperations.apk
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.DatabaseOperations-Signed.apk
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.csprojResolveAssemblyReference.cache
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.dll
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.pdb
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\android\bin\DatabaseOperations.DatabaseOperations.apk
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\res\values\strings.xml
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\R.cs.flag
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\uploadflags.txt
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.dll.mdb
+D:\Bhakti Stuff\Private Project\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.dll.mdb
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.dll
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.pdb
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.DatabaseOperations.apk
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.DatabaseOperations-Signed.apk
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.csprojResolveAssemblyReference.cache
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.dll
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.pdb
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\android\bin\DatabaseOperations.DatabaseOperations.apk
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\res\values\strings.xml
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\R.cs.flag
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\uploadflags.txt
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.dll.mdb
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.dll.mdb
+D:\AutumnCare\Phoneword\DatabaseOperations\obj\Debug\DatabaseOperations.dll.mdb
+D:\AutumnCare\Phoneword\DatabaseOperations\bin\Debug\DatabaseOperations.dll.mdb
